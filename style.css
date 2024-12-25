@@ -1,0 +1,15 @@
+.bg-container{
+    background-image: url("https://ik.imagekit.io/1pajpxrhpx/asserts/tourism%20project/sea%20pic.jpg?updatedAt=1735052596049");
+    height:700px;
+    width:500px;
+    background-size: cover;
+
+
+}
+
+.bg-fav-container{
+    background-image: url("https://ik.imagekit.io/1pajpxrhpx/asserts/tourism%20project/bg%20img1.jpg?updatedAt=1735142904717");
+    height:600px;
+    width:400px;
+    background-size: cover;
+}
